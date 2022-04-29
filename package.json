@@ -1,0 +1,14 @@
+{
+    "name": "live-server",
+    "version": "1.2.2",
+    "description": "demo project.",
+    "scripts": {
+        "live": "live-server",
+        "start": "npm run live"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
