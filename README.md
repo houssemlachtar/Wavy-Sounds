@@ -61,6 +61,9 @@ npm run build
 </details>
 
 
+## Responsive ✔️
+
+
 ## Follow me on
 
 [Instagram](https://www.instagram.com/houssem_lachtar/), [Codepen](https://codepen.io/houssem-lachtar), [GitHub](https://github.com/houssemlachtar)
