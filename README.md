@@ -48,7 +48,7 @@ Create the build:
 ```
 npm run build
 ```
-## Tools
+## Used Tools
 
 <details>
   <summary>Used Libraries</summary>
