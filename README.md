@@ -13,6 +13,8 @@ Instructions to run this project are down below
     </a>
 </p>
 
+## Windows Setup
+
 ## Installation
 Make sure you have installed Node.js and NPM first:<br>
 (This is for checking the installed versions)
